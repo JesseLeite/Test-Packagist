@@ -1,2 +1,2 @@
 # Test-Packagist
-Just a packagist test to reserve vendor namespace.
+A temporary packagist test to reserve vendor namespace.

@@ -1,0 +1,10 @@
+{
+    "name": "jesseleite/testpackagist",
+    "description": "A temporary packagist test to reserve vendor namespace.",
+    "authors": [
+        {
+            "name": "Jesse Leite",
+            "email": "jesse@thisvessel.co"
+        }
+    ],
+}
