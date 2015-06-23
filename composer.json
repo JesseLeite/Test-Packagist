@@ -1,5 +1,5 @@
 {
-    "name": "jesseleite/testpackagist",
+    "name": "adamwathan/testpackagiststeal",
     "description": "A temporary packagist test to reserve vendor namespace.",
     "authors": [
         {
